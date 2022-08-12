@@ -6,7 +6,7 @@ public class ConcurrentTest {
     public static void main(String[] args) throws Exception {
 
         //serial();
-        concurrency();
+        //concurrency();
     }
 
 
