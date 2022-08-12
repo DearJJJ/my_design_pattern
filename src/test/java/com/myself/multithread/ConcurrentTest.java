@@ -7,6 +7,7 @@ public class ConcurrentTest {
 
         //serial();
         //concurrency();
+        System.out.println("进行了一个修改");
     }
 
 
