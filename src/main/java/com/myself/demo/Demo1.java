@@ -7,5 +7,6 @@ public class Demo1 {
         System.out.println("我进行了修改，没有本地提交，小心被删");
 
         System.out.println("我进行了修改，并提交");
+        System.out.println("我进行了修改，并提交");
     }
 }
