@@ -4,7 +4,7 @@ public class ConcurrentTest {
     private static final long count = 100001;
 
     public static void main(String[] args) throws Exception {
-
+        System.out.println("第一段内容");
 
     }
 
