@@ -9,6 +9,7 @@ public class ConcurrentTest {
 
         System.out.println("本地同样的位置进行了编辑");
 
+        int a = 1;
         //serial();
         //concurrency();
         System.out.println("进行了一个修改");
