@@ -5,6 +5,8 @@ public class ConcurrentTest {
 
     public static void main(String[] args) throws Exception {
 
+        System.out.println("这是一段来自19:12秒的提交");
+
         //serial();
         //concurrency();
         System.out.println("进行了一个修改");
