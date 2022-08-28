@@ -7,6 +7,8 @@ public class ConcurrentTest {
 
         System.out.println("这是一段来自19:12秒的提交");
 
+        System.out.println("本地同样的位置进行了编辑");
+
         //serial();
         //concurrency();
         System.out.println("进行了一个修改");
