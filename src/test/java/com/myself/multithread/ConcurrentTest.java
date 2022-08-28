@@ -6,6 +6,8 @@ public class ConcurrentTest {
     public static void main(String[] args) throws Exception {
         System.out.println("第一段内容");
 
+        System.out.println("第二段内容");
+
     }
 
 
