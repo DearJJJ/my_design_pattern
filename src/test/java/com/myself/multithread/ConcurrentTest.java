@@ -14,6 +14,7 @@ public class ConcurrentTest {
         //serial();
         //concurrency();
         System.out.println("这是一段来自19:26的提交");
+        System.out.println("这是一段来自19:28的提交");
         System.out.println("进行了一个修改");
     }
 
