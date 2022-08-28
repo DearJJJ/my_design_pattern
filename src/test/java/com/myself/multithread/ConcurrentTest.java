@@ -13,6 +13,7 @@ public class ConcurrentTest {
         System.out.println("这是一段来自19:23的提交");
         //serial();
         //concurrency();
+        System.out.println("这是一段来自19:26的提交");
         System.out.println("进行了一个修改");
     }
 
