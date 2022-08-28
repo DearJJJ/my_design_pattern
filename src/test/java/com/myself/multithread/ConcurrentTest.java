@@ -5,17 +5,7 @@ public class ConcurrentTest {
 
     public static void main(String[] args) throws Exception {
 
-        System.out.println("这是一段来自19:12的提交");
 
-        System.out.println("本地同样的位置进行了编辑");
-
-        int a = 2;
-        System.out.println("这是一段来自19:23的提交");
-        //serial();
-        //concurrency();
-        System.out.println("这是一段来自19:26的提交");
-        System.out.println("这是一段来自19:28的提交");
-        System.out.println("进行了一个修改");
     }
 
 
