@@ -17,6 +17,7 @@ public class DebugMethodInterceptor implements MethodInterceptor {
     public Object intercept(Object o, Method method, Object[] args, MethodProxy methodProxy) throws Throwable {
         System.out.println("before method " + method.getName());
         Object object = methodProxy.invokeSuper(o, args);
+//        Object object = method.invoke(o, args);   这里会报错
         System.out.println("after method " + method.getName());
         return object;
     }

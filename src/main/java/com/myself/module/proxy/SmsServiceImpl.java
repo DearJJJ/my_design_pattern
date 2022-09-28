@@ -1,6 +1,6 @@
 package com.myself.module.proxy;
 
-public class SmsServiceImpl implements SmsService {
+public class SmsServiceImpl implements SmsService, OtherService {
     @Override
     public String send(String msg) {
         System.out.println("send message:" + msg);
@@ -13,4 +13,8 @@ public class SmsServiceImpl implements SmsService {
     }
 
 
+    @Override
+    public void otherDo() {
+        System.out.println("I'm otherDo");
+    }
 }
