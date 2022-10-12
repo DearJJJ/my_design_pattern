@@ -9,8 +9,10 @@ public class Application {
     public void initialize() {
         if (env.equals("Windows")) {
             dialog = new WindowsDialog();
+
         } else if (env.equals("Web")) {
             dialog = new WebDialog();
+
         } else {
             throw new RuntimeException("未知错误");
         }
