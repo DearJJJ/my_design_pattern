@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T02:20:00.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="K1P5NvHC2gsZqFlZGZ8I" type="github"><diagram id="aUBuHN6MXLQGVr44WZyo">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-15T02:30:26.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YUy1ty7S22pJfL5-gNGd" version="20.5.3" type="github">
+  <diagram id="aUBuHN6MXLQGVr44WZyo" name="第 1 页">
+    <mxGraphModel dx="576" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-1" target="XFE-MpF_bWx7WAoScGuX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-1" value="第一次检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-2" target="XFE-MpF_bWx7WAoScGuX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-2" value="检测填写的手机号是否重复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-4" target="XFE-MpF_bWx7WAoScGuX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-4" target="XFE-MpF_bWx7WAoScGuX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-4" value="填写的小区名称是否存在" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-6" target="XFE-MpF_bWx7WAoScGuX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-6" value="必填字段的非空判断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="130" width="145" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-9" target="XFE-MpF_bWx7WAoScGuX-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-9" value="第一次过滤获得的成功数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-11" value="失败数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-15" target="XFE-MpF_bWx7WAoScGuX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-15" target="XFE-MpF_bWx7WAoScGuX-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-15" value="检测是否与数据库中的手机号重复" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.9999999999999" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-24" value="未重复数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="585" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-25" value="手机号重复数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="230" y="585" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-30" value="插入居民表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="680" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XFE-MpF_bWx7WAoScGuX-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
