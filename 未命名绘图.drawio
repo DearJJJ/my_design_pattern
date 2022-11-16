@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T02:02:19.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S4mMvTeycefeEcxedq76" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T02:21:44.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bj3E-43r0bofWQ9GtIsE" version="20.5.3" type="github">
   <diagram id="aUBuHN6MXLQGVr44WZyo" name="第 1 页">
-    <mxGraphModel dx="1727" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,8 +182,11 @@
         <mxCell id="XFE-MpF_bWx7WAoScGuX-62" value="检测是否重复插入过成员" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="652.5" y="950" width="175" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="S9MntMNMVdMsf80aEHKJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-65" target="S9MntMNMVdMsf80aEHKJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XFE-MpF_bWx7WAoScGuX-65" value="合并所有居民id" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="666.25" y="880" width="147.5" height="30" as="geometry" />
+          <mxGeometry x="666.25" y="870" width="147.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S9MntMNMVdMsf80aEHKJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="XFE-MpF_bWx7WAoScGuX-53" target="XFE-MpF_bWx7WAoScGuX-65">
           <mxGeometry relative="1" as="geometry">
@@ -193,6 +196,17 @@
         </mxCell>
         <mxCell id="S9MntMNMVdMsf80aEHKJ-4" value="查出居民表的id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="790" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S9MntMNMVdMsf80aEHKJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S9MntMNMVdMsf80aEHKJ-5" target="XFE-MpF_bWx7WAoScGuX-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="933" y="885" />
+              <mxPoint x="933" y="977" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S9MntMNMVdMsf80aEHKJ-5" value="手机号反查填写信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="866.25" width="83.75" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
