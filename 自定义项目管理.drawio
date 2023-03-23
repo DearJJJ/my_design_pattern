@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T08:16:15.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Sm09RIADPtVvYZ_VANoX" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T08:23:01.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-EFA1-l4wo7B-d4x0EYl" version="21.0.10" type="github">
   <diagram name="第 1 页" id="5OFcyrJHKZd2bGtqm-t-">
-    <mxGraphModel dx="1235" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,10 +185,22 @@
           <mxGeometry x="735" y="790" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ODfmBPSqimNJBz5jPGI0-83" value="领料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="890" width="100" height="50" as="geometry" />
+          <mxGeometry x="560" y="920" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ODfmBPSqimNJBz5jPGI0-84" value="退料" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="930" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ODfmBPSqimNJBz5jPGI0-86" value="可导入材料清单&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="850" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ODfmBPSqimNJBz5jPGI0-87" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="770" as="sourcePoint" />
+            <mxPoint x="550" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ODfmBPSqimNJBz5jPGI0-88" value="从仓库中选取数量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="885" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
