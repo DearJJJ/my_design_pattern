@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T02:15:35.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eq7W0FIaPcyeG_T8bInV" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T03:01:27.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qWtvp1ew2wQc_QJekcqt" version="21.0.10" type="github">
   <diagram name="第 1 页" id="5OFcyrJHKZd2bGtqm-t-">
-    <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="YhHksgYVdr4yMq0VF5Q3-15" value="采购合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-16" value="采购订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1210" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
