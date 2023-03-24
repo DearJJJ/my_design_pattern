@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T05:49:05.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="HjbrqzlmrnBSBPqNrRMi" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T06:10:23.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wG6Ap5QLPEnIw9KLKm43" version="21.0.10" type="github">
   <diagram name="第 1 页" id="5OFcyrJHKZd2bGtqm-t-">
-    <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,8 +307,8 @@
         <mxCell id="YhHksgYVdr4yMq0VF5Q3-26" value="收货验货" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1390" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YhHksgYVdr4yMq0VF5Q3-27" value="采购合同结算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1470" width="100" height="50" as="geometry" />
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-27" value="采购付款申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1390" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YhHksgYVdr4yMq0VF5Q3-30" value="（生成收货单）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="1380" width="110" height="30" as="geometry" />
@@ -322,6 +322,9 @@
               <mxPoint x="520" y="1320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-32" value="采购合同结算" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1320" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
