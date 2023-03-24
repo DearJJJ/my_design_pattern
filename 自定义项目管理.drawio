@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T01:18:24.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="z0WI7mQk0Fk2n-56pyqW" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T02:15:35.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eq7W0FIaPcyeG_T8bInV" version="21.0.10" type="github">
   <diagram name="第 1 页" id="5OFcyrJHKZd2bGtqm-t-">
     <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -148,7 +148,7 @@
         <mxCell id="ODfmBPSqimNJBz5jPGI0-59" value="可导入各项如&lt;br&gt;工程量清单、材料清单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="170" y="625" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ODfmBPSqimNJBz5jPGI0-65" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
+        <mxCell id="ODfmBPSqimNJBz5jPGI0-65" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="750" as="sourcePoint" />
             <mxPoint x="580" y="800" as="targetPoint" />
@@ -229,7 +229,7 @@
         <mxCell id="ODfmBPSqimNJBz5jPGI0-106" value="开票申请" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="560" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YhHksgYVdr4yMq0VF5Q3-2" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#82b366;fillColor=#d5e8d4;" edge="1" parent="1" target="ODfmBPSqimNJBz5jPGI0-81">
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-2" value="" style="endArrow=classic;html=1;rounded=1;" edge="1" parent="1" target="ODfmBPSqimNJBz5jPGI0-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="720" as="sourcePoint" />
             <mxPoint x="460" y="670" as="targetPoint" />
@@ -240,6 +240,45 @@
         </mxCell>
         <mxCell id="YhHksgYVdr4yMq0VF5Q3-3" value="可导入材料清单&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="680" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-5" value="入库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1030" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-6" value="出库单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1040" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-7" value="关联收货单&lt;br&gt;材料入库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="575" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-8" value="关联供应商&lt;br&gt;材料出库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1010" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-9" value="其他入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-10" value="无需收货单&lt;br&gt;自己填写材料来源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-11" value="其他出库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-12" value="无需关联供应商&lt;br&gt;关联入库单出库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="820" as="sourcePoint" />
+            <mxPoint x="400" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="890" as="sourcePoint" />
+            <mxPoint x="410" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-15" value="采购合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1130" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
