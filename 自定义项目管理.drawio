@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T03:01:27.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qWtvp1ew2wQc_QJekcqt" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T03:41:57.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xn7vXUQz8kfh_Wovilq0" version="21.0.10" type="github">
   <diagram name="第 1 页" id="5OFcyrJHKZd2bGtqm-t-">
-    <mxGraphModel dx="1436" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,11 +277,29 @@
             <mxPoint x="410" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhHksgYVdr4yMq0VF5Q3-15" target="YhHksgYVdr4yMq0VF5Q3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YhHksgYVdr4yMq0VF5Q3-15" value="采购合同" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1130" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="1150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YhHksgYVdr4yMq0VF5Q3-16" value="采购订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1210" width="100" height="50" as="geometry" />
+          <mxGeometry x="350" y="1280" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-18" value="采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="960" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-19" value="采购申请" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1020" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-21" value="选择供应商&lt;br&gt;材料单从采购申请中导入&lt;br&gt;可修改数量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="1110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-22" value="订单中的乙方&lt;br&gt;（供应商）不可修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1260" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YhHksgYVdr4yMq0VF5Q3-25" value="订单中&lt;br&gt;实际购买数量可修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1260" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
